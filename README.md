@@ -2,7 +2,7 @@ NAME: Eze Michael
 
 MATRICULATION NUMBER: 7222309
 
-PROJECT DESCRIPTION: Develop a Java application that defines a Car class with attributes such as id, Make, Model, Year of manufacture, Color, Price, and Registration number. The project will also include an array of Car objects to demonstrate object-oriented programming concepts and array manipulation in Java.
+PROJECT DESCRIPTION: This task involves defining a Car class with attributes such as id, Make, Model, Year of manufacture, Color, Price, and Registration number. The task also includes an array of Car objects to demonstrate object-oriented programming concepts and array manipulation in Java.
 
 Development Environment:
 - Programming Language: Java 
