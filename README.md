@@ -20,4 +20,4 @@ Key Features:
 - Create an array to store multiple Car objects
 
 Expected Outcome:
-By the end of this project, I should have a solid understanding of how to create and manipulate objects in Java, as well as how to work with arrays of objects. This project also enhances my skills in using an IDE and managing a Java development environment.
+By the end of this project, I have a solid understanding of how to create and manipulate objects in Java, as well as how to work with arrays of objects. This project also enhances my skills in using an IDE and managing a Java development environment.
